@@ -14,7 +14,7 @@ const BoxIcons = styled.div`
   display: flex;
 `;
 const addLike =
-  "https://cdn-icons.flaticon.com/png/512/880/premium/880452.png?token=exp=1660221450~hmac=ba990e5942d68ebadc8bdda4a8326779";
+  "https://cdn-icons-png.flaticon.com/512/1067/1067447.png";
 const removeLike = "https://cdn-icons-png.flaticon.com/512/889/889140.png";
 
 const repost =
